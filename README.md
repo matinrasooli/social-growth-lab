@@ -192,3 +192,6 @@ logic, automated Instagram activity, and unofficial APIs.
 
 This is a reference implementation provided as-is for your own use and
 modification.
+
+
+## how to run faster ?!
