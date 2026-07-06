@@ -1,0 +1,62 @@
+[
+  {
+    "variable": "hook_type",
+    "hypothesis": "Changing hook type will improve retention or save rate.",
+    "expected_metric_improvement": "+15% on the primary metric for this variable",
+    "status": "complete"
+  },
+  {
+    "variable": "posting_time",
+    "hypothesis": "Changing posting time will improve retention or save rate.",
+    "expected_metric_improvement": "+15% on the primary metric for this variable",
+    "status": "planned"
+  },
+  {
+    "variable": "caption_style",
+    "hypothesis": "Changing caption style will improve retention or save rate.",
+    "expected_metric_improvement": "+19% on the primary metric for this variable",
+    "status": "planned"
+  },
+  {
+    "variable": "video_length",
+    "hypothesis": "Changing video length will improve retention or save rate.",
+    "expected_metric_improvement": "+20% on the primary metric for this variable",
+    "status": "running"
+  },
+  {
+    "variable": "cta_type",
+    "hypothesis": "Changing cta type will improve retention or save rate.",
+    "expected_metric_improvement": "+14% on the primary metric for this variable",
+    "status": "running"
+  },
+  {
+    "variable": "thumbnail_style",
+    "hypothesis": "Changing thumbnail style will improve retention or save rate.",
+    "expected_metric_improvement": "+6% on the primary metric for this variable",
+    "status": "running"
+  },
+  {
+    "variable": "topic",
+    "hypothesis": "Changing topic will improve retention or save rate.",
+    "expected_metric_improvement": "+7% on the primary metric for this variable",
+    "status": "running"
+  },
+  {
+    "variable": "music_choice",
+    "hypothesis": "Changing music choice will improve retention or save rate.",
+    "expected_metric_improvement": "+19% on the primary metric for this variable",
+    "status": "running"
+  },
+  {
+    "variable": "talking_head_vs_broll",
+    "hypothesis": "Changing talking head vs broll will improve retention or save rate.",
+    "expected_metric_improvement": "+6% on the primary metric for this variable",
+    "status": "planned"
+  },
+  {
+    "variable": "text_overlay_style",
+    "hypothesis": "Changing text overlay style will improve retention or save rate.",
+    "expected_metric_improvement": "+16% on the primary metric for this variable",
+    "status": "running"
+  }
+]

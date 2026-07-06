@@ -1,0 +1,32 @@
+[
+  {
+    "name": "spring_launch",
+    "niche": "wellness",
+    "goal": "product launch awareness",
+    "weeks": 2
+  },
+  {
+    "name": "q2_growth_push",
+    "niche": "fitness",
+    "goal": "follower growth",
+    "weeks": 4
+  },
+  {
+    "name": "product_launch_2026",
+    "niche": "budgeting app",
+    "goal": "waitlist signups",
+    "weeks": 3
+  },
+  {
+    "name": "evergreen",
+    "niche": "general lifestyle",
+    "goal": "steady engagement",
+    "weeks": 8
+  },
+  {
+    "name": "collab_series",
+    "niche": "cross-niche",
+    "goal": "audience cross-pollination",
+    "weeks": 2
+  }
+]
